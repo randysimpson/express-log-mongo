@@ -1,0 +1,46 @@
+{
+  "name": "express-log-mongo",
+  "version": "1.1.2",
+  "description": "Express middleware based off morgan to log into mongodb.  Simple and effective.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Express",
+    "Mongodb",
+    "Mongo",
+    "Log",
+    "Logger",
+    "Logging",
+    "NoSQL",
+    "Morgan"
+  ],
+  "author": {
+    "email": "chipdawg112@msn.com",
+    "name": "Randall Simpson"
+  },
+  "dependencies": {
+    "basic-auth": "~2.0.0",
+    "debug": "2.6.9",
+    "depd": "~1.1.1",
+    "on-finished": "~2.3.0",
+    "on-headers": "~1.0.1",
+    "mongodb": "^3.1.13"
+  },
+  "maintainers": [
+    {
+      "email": "chipdawg112@msn.com",
+      "name": "Randy"
+    }
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/randysimpson/express-log-mongo#readme",
+  "bugs": {
+    "url" : "https://github.com/randysimpson/express-log-mongo/issues"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/randysimpson/express-log-mongo.git"
+  }
+}
